@@ -1,0 +1,14 @@
+.upper1{
+    width: 100px;
+    overflow-x: scroll;
+
+}
+.upper2{
+    background-color: red;
+    width: 200px;
+}
+.lower{
+    background-color: brown;
+    padding: 10px;
+
+}

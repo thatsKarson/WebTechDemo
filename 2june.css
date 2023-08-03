@@ -1,0 +1,22 @@
+.outer{
+    background-color: blue;
+    margin: auto;
+    height: 500px;
+    width: 300px;
+    padding: 20px;
+    border: 2px solid black;
+}
+.inner1{
+    background-color: brown;
+    height: 60%;
+    width: 250px;
+    margin: auto;
+    border: 2px solid black;
+}
+.inner2{
+    background-color: chartreuse;
+    height: 38%;
+    width: 250px;
+    margin: 10px auto;
+    border: 2px solid black;
+}

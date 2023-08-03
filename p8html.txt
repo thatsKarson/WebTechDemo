@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="p8.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="parent1">
+            <div class="innerbox" id="inside1"><u>I n d i a T o u r i s m</u></div>
+            <div class="innerbox" id="inside2">
+                <div>HOME </div>
+                <div>TRAVEL </div>
+                <div>TRAVEL </div>
+            </div>
+        </div>
+        <div class="parent2">
+            <div class="inner" id="box1">
+                <div>
+                    <div>The Holy City of Varanasi</div>
+                    <div><img src="./varanasi.jpg" alt=""></div>
+                </div>
+                <div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repudiandae, totam quo! Quibusdam officia
+                    nemo ratione rem odit cumque. Omnis aspernatur inventore cupiditate optio nisi quaerat ipsum maiores
+                    dolores quos dolorum sunt, nemo natus totam magnam doloribus unde! Veritatis quasi odio expedita
+                    corporis commodi? Fugit magni impedit id minus. Repellendus repudiandae dolore, quasi in excepturi
+                    temporibus vel alias inventore sequi explicabo fuga architecto numquam voluptatem nemo minima quas,
+                    totam nam exercitationem atque neque, ipsam dolor enim. Illum hic quod neque libero, et odio sunt?
+                    Excepturi tenetur est sint, minus impedit nemo cupiditate consectetur. Explicabo odio perferendis
+                    temporibus ut natus fugiat tenetur?</div>
+            </div>
+            <div class="inner" id="box2">
+                <div>
+                    <div>The Golden City : Jaisalmer</div>
+                    <div><img src="./Jaisalmer.jpg" alt=""></div>
+                </div>
+                <div>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum rerum inventore incidunt autem
+                    obcaecati quidem magni ipsam iste distinctio, natus sunt. Tempora quasi aperiam ex blanditiis
+                    corrupti! Minima, quasi placeat ipsa dolorum assumenda consequatur doloribus fugit sit at tenetur
+                    hic iure fugiat, nemo nam nesciunt excepturi! Distinctio optio doloremque molestiae in eos, quae nam
+                    quibusdam quasi ipsa, accusamus odio amet illum, rem ipsam iure aspernatur voluptate tenetur vero
+                    facere rerum tempora laborum quod deleniti magnam. Non similique debitis nemo molestias eligendi
+                    impedit magni. Labore possimus praesentium sit, officiis error maxime nemo natus magni voluptatum
+                    vel ipsum consequuntur est quibusdam dignissimos!</div>
+            </div>
+            <div class="inner" id="box3">
+                <div>
+                    <div>Mumbai : The Gateway of India</div>
+                    <div><img src="./gatewayofindia.jpg" alt=""></div>
+                </div>
+                <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere deleniti vitae sapiente. Corporis
+                    numquam provident, minima a illum asperiores quam cumque architecto velit, minus ipsum repellat cum
+                    iusto sunt ratione ullam deserunt odio, est cupiditate fuga dolorum dolorem distinctio! A adipisci
+                    deleniti consequatur. Non consectetur rerum eum voluptatem iure vel, repudiandae deserunt nulla
+                    molestias. Iure, eligendi necessitatibus a iusto delectus magnam, distinctio excepturi provident
+                    possimus modi accusamus quibusdam? Sed, nihil nostrum totam qui praesentium illum. Ipsam dolorum
+                    reprehenderit odit, cumque cum vitae animi. Commodi praesentium voluptates reprehenderit neque
+                    corrupti quia quos, deleniti facilis provident? Ipsum animi numquam dolores dolorum dolorem.</div>
+            </div>
+            <div class="inner" id="box4">
+                <div>
+                    <div>The Beaches of Goa</div>
+                    <div><img src="./thebeachesofgoa.jpg" alt=""></div>
+                </div>
+                <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, ipsum fugiat libero
+                    doloremque excepturi quo tempore? Enim dolor eos sit ut quasi consequatur iure ad maxime illo totam
+                    nisi unde in, odit ipsum atque reiciendis, commodi temporibus sapiente consectetur. Quos molestiae
+                    architecto quisquam similique illum officia consequuntur. Omnis, id! Nesciunt perferendis amet
+                    minima asperiores? Quaerat ut molestiae libero tenetur excepturi illum similique necessitatibus,
+                    rerum, in voluptatum odit ad ea maxime aut. Iusto nisi, ipsum ut autem blanditiis unde reiciendis
+                    quaerat, odio laudantium vitae atque, asperiores facere hic et rem excepturi sed velit cumque!
+                    Dolorem quaerat nemo ut laborum enim consequuntur?</div>
+            </div>
+            <div class="inner" id="box5">
+                <div>
+                    <div>The Ellora Caves, Aurangabad</div>
+                    <div><img src="./aurangabad.jpg" alt=""></div>
+                </div>
+                <div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, recusandae consectetur nemo
+                    assumenda voluptatibus commodi hic sint at aliquid illo amet unde voluptas aperiam porro, itaque
+                    praesentium atque doloribus officiis quod cumque provident quibusdam ducimus? Odio, culpa? Nesciunt,
+                    dolorem eum eius deserunt totam placeat exercitationem natus illum dolore molestiae doloremque
+                    assumenda quam quisquam incidunt culpa porro facere? Quos, a quod. Placeat quae, facere nam
+                    explicabo eius sint ullam officiis reprehenderit dolorem adipisci autem dolore molestias aliquam eos
+                    sed libero hic in quis, esse unde ratione magni cupiditate. Consectetur dignissimos possimus quo.
+                    Quas recusandae nobis quo placeat adipisci, illum dolore amet.</div>
+            </div>
+            <div class="inner" id="box6">
+                <div>
+                    <div>Mehrangarh Fort, Jodhpur</div>
+                    <div><img src="./Mehrangarh_Fort.jpg" alt=""></div>
+                </div>
+                <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error accusamus beatae fuga voluptatibus,
+                    aliquid dolor veritatis corporis ipsum amet, voluptas molestiae temporibus facilis aspernatur sit.
+                    Voluptatibus tempore neque dicta inventore illo, officiis, deleniti, eum sint sunt quia porro
+                    corporis quae dolore magni? Quidem odio tempore ex quaerat labore reiciendis. Alias reiciendis
+                    tenetur perferendis exercitationem accusantium quibusdam totam quam illum culpa fugiat optio non ea,
+                    eveniet repellat, provident laudantium dignissimos incidunt iste eaque! Explicabo odio esse mollitia
+                    iure ab, doloribus doloremque itaque fugiat praesentium voluptatibus a enim omnis rem voluptate
+                    saepe? Facere veniam perspiciatis totam rerum necessitatibus laboriosam hic enim mollitia!</div>
+            </div>
+            <div class="inner" id="box7">
+                <div>
+                    <div>Bodhgaya, Bihar</div>
+                    <div><img src="./bodhgaya.jfif" alt=""></div>
+                </div>
+                <div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum, at quaerat. Sequi unde consequuntur
+                    repellat itaque eveniet quisquam quasi ex praesentium distinctio similique pariatur amet labore
+                    neque sint doloribus delectus quia in, enim, harum cumque impedit. Maxime sequi culpa iure tenetur
+                    nulla optio voluptas placeat voluptatibus maiores blanditiis, eius debitis quisquam numquam? Neque
+                    voluptatum nulla commodi. Qui aspernatur accusamus impedit maxime rerum, veritatis adipisci, harum,
+                    consectetur quo dolorum temporibus omnis? Consequuntur similique velit excepturi odio voluptates.
+                    Rem molestias dolor quod est quae quos laborum possimus nihil deleniti totam, similique eos ipsa
+                    magnam laudantium! Sapiente inventore accusantium earum porro, praesentium facilis.</div>
+            </div>
+            <div class="inner" id="box8">
+                <div>
+                    <div>Charminar, Telangana</div>
+                    <div><img src="./Charminar.jpg" alt=""></div>
+                </div>
+                <div>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam adipisci optio veritatis sapiente?
+                    Eaque perferendis consequatur voluptatum libero. Ut, veritatis sed. Unde dolor facere doloremque
+                    perspiciatis laudantium, natus officia assumenda temporibus asperiores animi quae ullam sed
+                    reprehenderit nisi exercitationem repellat rem placeat. Earum aliquam ullam consequuntur voluptates
+                    ex commodi dolore laborum reiciendis quidem itaque quas incidunt quibusdam, harum eius quod
+                    excepturi! Adipisci sit odio nulla itaque. Ipsam, ducimus. Ad non vero nisi assumenda dolores minus
+                    quod ut minima, consequuntur vitae.</div>
+            </div>
+            <div class="inner" id="box9">
+                <div>
+                    <div>Bodhgaya, Bihar</div>
+                    <div><img src="./bodhgaya.jfif" alt=""></div>
+                </div>
+                <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, quo omnis debitis iusto iure
+                    ex tempore rerum molestiae ducimus! Animi quasi minima atque! Voluptatem possimus, voluptates
+                    necessitatibus accusamus facere quod libero dolorum doloremque vero non dolor, beatae sed, pariatur
+                    magni consequuntur. A perspiciatis fugit deleniti repellat, dolorum, ipsa accusantium modi
+                    consequuntur minus ex velit rerum consectetur unde quisquam corporis numquam placeat voluptatum?
+                    Nostrum voluptatem blanditiis corrupti doloremque perspiciatis architecto repudiandae consequuntur
+                    voluptas, minima libero sapiente aliquam praesentium dicta delectus rem culpa atque. Ipsam voluptate
+                    harum sapiente alias eveniet obcaecati quos veniam laudantium, dolor dicta perferendis porro ab
+                    necessitatibus reprehenderit. Corrupti!</div>
+            </div>
+        </div>
+        <div class="parent3">
+            <div class="insider" id="boxx1">2022 Indiatourism Pvt. Ltd</div>
+            <div class="insider" id="boxx2">I n d i a T o u r i s m</div>
+        </div>
+    </div>
+</body>
+
+</html>

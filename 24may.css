@@ -1,0 +1,28 @@
+a{
+    color: green;
+}
+ul{
+    color: green;
+}
+.alpha{
+    color: red;
+    background-color: blue;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+#a{
+    color: brown;
+}
+#b{
+    color: yellowgreen;
+}
+#c{
+    color: aqua;
+}
+#d{
+    color: chartreuse;
+}
+#e{
+    color: coral;
+}

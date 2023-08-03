@@ -1,0 +1,62 @@
+.entire {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.login {
+    background-color: rgb(75, 75, 223);
+    color: white;
+    height: 450px;
+    width: 250px;
+    padding: 20px;
+}
+
+.loginpage {
+    background-color: white;
+    width: 450px;
+    height: 450px;
+    padding-left: 40px;
+    padding-top: 40px;
+
+}
+
+#log {
+    background-color: tomato;
+    margin-left: 00px;
+    width: 450px;
+    height: 40px;
+}
+
+#otp {
+    background-color: rgb(247, 244, 244);
+    margin-left: 00px;
+    width: 450px;
+    height: 40px;
+    border: 2px solid white;
+    color: blue;
+}
+
+#or {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    color: blue;
+}
+
+.b {
+    color: blue;
+}
+
+.input {
+    border: 1px solid white;
+    width: 450px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    margin-top: 95px;
+}

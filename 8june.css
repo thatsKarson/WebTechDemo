@@ -1,0 +1,25 @@
+.container
+{
+    background-color: aquamarine;
+    border: 2px dashed black;
+    display: flex;
+    height: 400px;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+}
+.innerclass
+{
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+    background-color:cornflowerblue;
+    overflow: auto;
+    
+}
+span{
+    background-color: white;
+
+}

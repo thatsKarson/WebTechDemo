@@ -1,0 +1,21 @@
+.outer
+{
+    height: 200px;
+    border: 2px solid black;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+.innerbox
+{
+    height: 50px;
+    width: 50px;
+    background-color: tomato;
+    border: 2px solid blue;
+
+}
+

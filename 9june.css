@@ -1,0 +1,45 @@
+.parent
+{
+    background-color: burlywood;
+    color: aliceblue;
+    border: 2px solid black;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    background-image: url(./ryuk1.jpg);
+    background-repeat:repeat-y ;
+    
+    
+}
+.box
+{
+    height: 100px;
+    
+    width: 100px;
+    border: 1px dashed red;
+    background-color: cadetblue;
+    
+
+}
+#innerbox1
+{
+    background-color: aqua;
+    background-image: url(./ryuk\ \(1\).gif);
+}
+#innerbox2
+{
+    background-color: orange;
+    background-image: url(./ryuk\ \(2\).gif);
+}
+#innerbox3
+{
+    background-color:royalblue;
+    background-image: url(./ryuk\ \(1\).gif);
+}
+#innerbox4
+{
+    background-color: lime;
+    background-image: url(./ryuk\ \(2\).gif);
+}

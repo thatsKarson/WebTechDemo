@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* .page
+{
+    background-image: url(./ryuk.crdownload);
+} */
+li
+{
+    /* display: inline-block;
+    background-color: blueviolet;
+    font-size: 20px;
+    border: 2px solid black;
+    margin-top: 5px;
+    margin-bottom: 20px; */
+    
+    
+}
+.hyperlink
+{
+    /* margin-left: 1650px;
+     */
+}
+.box 
+{
+    /* parent container for the flex */
+    height: 1000px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly; 
+    color:azure;
+}
+.innerbox
+{
+    height: 500px;
+    width: 300px;
+    border: 2px solid cyan;
+    padding: 30px;
+    border-radius: 20px;
+    color: white; 
+
+}
+body{
+    background-image: url(./ryuk1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+span{
+    color: red;
+}

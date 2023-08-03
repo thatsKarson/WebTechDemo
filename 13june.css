@@ -1,0 +1,14 @@
+.box
+{
+
+}
+.inner
+{
+    height: 500px;
+    width: 400px;
+    margin: 150px auto;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 0px 0px red;
+}
